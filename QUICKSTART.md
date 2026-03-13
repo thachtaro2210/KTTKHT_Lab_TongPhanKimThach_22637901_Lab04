@@ -1,3 +1,0 @@
-# QUICKSTART.md
-
-Last updated: 2026-03-13T07:38:05.083Z
