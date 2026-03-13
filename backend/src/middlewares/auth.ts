@@ -16,3 +16,5 @@ export const requireAuth = (req: Request, res: Response, next: NextFunction) => 
     return res.status(401).json({ message: 'Invalid token' });
   }
 };
+
+// Modified: 2026-03-13T07:37:55.343Z
