@@ -124,3 +124,5 @@ npm run build
 - JWT expiration: 7 days
 - Upload directory: `backend/uploads/`
 - Frontend proxy: `/api` → `http://localhost:4000`
+
+// Modified: 2026-03-13T07:38:05.082Z
