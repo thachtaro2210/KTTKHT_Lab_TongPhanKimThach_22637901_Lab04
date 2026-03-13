@@ -1,0 +1,178 @@
+[
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550000",
+    "title": "Welcome to CMS",
+    "slug": "welcome-to-cms",
+    "body": "<h1>Welcome to Content Management System</h1><p>This is your first post! You can create, edit, and publish content easily. Start by clicking <strong>New Post</strong> in the navigation.</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440000",
+    "tags": ["welcome", "getting-started", "tutorial"],
+    "versions": [
+      {
+        "body": "<h1>Welcome to Content Management System</h1><p>This is your first post! You can create, edit, and publish content easily. Start by clicking <strong>New Post</strong> in the navigation.</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440000",
+        "createdAt": "2025-03-01T08:30:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-01T08:30:00.000Z",
+    "createdAt": "2025-03-01T08:30:00.000Z",
+    "updatedAt": "2025-03-01T08:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550001",
+    "title": "Getting Started with Content Management",
+    "slug": "getting-started-cms",
+    "body": "<h2>How to Use the CMS</h2><p>Here are the main features:</p><ul><li><strong>Dashboard</strong> - View all your posts</li><li><strong>Editor</strong> - Create and edit posts</li><li><strong>Media Manager</strong> - Upload images and files</li><li><strong>User Management</strong> - Add team members (Admin only)</li></ul>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440001",
+    "tags": ["tutorial", "guide", "features"],
+    "versions": [
+      {
+        "body": "<h2>How to Use the CMS</h2><p>Here are the main features:</p><ul><li><strong>Dashboard</strong> - View all your posts</li><li><strong>Editor</strong> - Create and edit posts</li><li><strong>Media Manager</strong> - Upload images and files</li><li><strong>User Management</strong> - Add team members (Admin only)</li></ul>",
+        "author": "550e8400-e29b-41d4-a716-446655440001",
+        "createdAt": "2025-03-02T10:00:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-02T10:00:00.000Z",
+    "createdAt": "2025-03-02T09:45:00.000Z",
+    "updatedAt": "2025-03-02T10:00:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550002",
+    "title": "Top 10 Content Marketing Tips",
+    "slug": "top-10-content-marketing-tips",
+    "body": "<h2>Content Marketing Best Practices</h2><p>1. Know Your Audience - Understand who you're writing for</p><p>2. Quality Over Quantity - Focus on valuable content</p><p>3. Consistency - Post regularly on a schedule</p><p>4. Optimize for SEO - Use relevant keywords</p><p>5. Use Visuals - Add images and videos</p><p>6. Tell Stories - Engage readers emotionally</p><p>7. Call to Action - Guide readers on what's next</p><p>8. Mobile Friendly - Ensure responsive design</p><p>9. Update Content - Keep posts fresh and relevant</p><p>10. Measure Results - Track engagement and conversions</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440002",
+    "tags": ["marketing", "content", "tips", "strategy"],
+    "versions": [
+      {
+        "body": "<h2>Content Marketing Best Practices</h2><p>1. Know Your Audience<p>2. Quality Over Quantity<p>3. Consistency<p>4. Optimize for SEO<p>5. Use Visuals",
+        "author": "550e8400-e29b-41d4-a716-446655440002",
+        "createdAt": "2025-03-04T11:00:00.000Z"
+      },
+      {
+        "body": "<h2>Content Marketing Best Practices</h2><p>1. Know Your Audience - Understand who you're writing for</p><p>2. Quality Over Quantity - Focus on valuable content</p><p>3. Consistency - Post regularly on a schedule</p><p>4. Optimize for SEO - Use relevant keywords</p><p>5. Use Visuals - Add images and videos</p><p>6. Tell Stories - Engage readers emotionally</p><p>7. Call to Action - Guide readers on what's next</p><p>8. Mobile Friendly - Ensure responsive design</p><p>9. Update Content - Keep posts fresh and relevant</p><p>10. Measure Results - Track engagement and conversions</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440002",
+        "createdAt": "2025-03-05T14:30:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-05T14:30:00.000Z",
+    "createdAt": "2025-03-04T11:00:00.000Z",
+    "updatedAt": "2025-03-05T14:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550003",
+    "title": "Web Design Trends 2025",
+    "slug": "web-design-trends-2025",
+    "body": "<h2>Latest Web Design Trends</h2><p><strong>1. Minimalist Design</strong> - Clean, simple layouts with plenty of whitespace</p><p><strong>2. Dark Mode</strong> - Reduced eye strain and modern aesthetic</p><p><strong>3. Micro-interactions</strong> - Subtle animations for better UX</p><p><strong>4. AI Integration</strong> - Chatbots and personalization</p><p><strong>5. Voice Interface</strong> - Voice commands and audio navigation</p><p><strong>6. 3D Elements</strong> - Interactive 3D graphics</p><p><strong>7. Glassmorphism</strong> - Frosted glass effect UI elements</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440003",
+    "tags": ["design", "web", "trends", "2025"],
+    "versions": [
+      {
+        "body": "<h2>Latest Web Design Trends</h2><p><strong>1. Minimalist Design</strong> - Clean, simple layouts with plenty of whitespace</p><p><strong>2. Dark Mode</strong> - Reduced eye strain and modern aesthetic</p><p><strong>3. Micro-interactions</strong> - Subtle animations for better UX</p><p><strong>4. AI Integration</strong> - Chatbots and personalization</p><p><strong>5. Voice Interface</strong> - Voice commands and audio navigation</p><p><strong>6. 3D Elements</strong> - Interactive 3D graphics</p><p><strong>7. Glassmorphism</strong> - Frosted glass effect UI elements</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440003",
+        "createdAt": "2025-03-07T13:15:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-07T13:15:00.000Z",
+    "createdAt": "2025-03-07T13:15:00.000Z",
+    "updatedAt": "2025-03-07T13:15:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550004",
+    "title": "Node.js Best Practices",
+    "slug": "nodejs-best-practices",
+    "body": "<h2>Building Better Node.js Applications</h2><p><strong>1. Use async/await</strong> - More readable than callbacks</p><p><strong>2. Error Handling</strong> - Always handle errors properly</p><p><strong>3. Environment Variables</strong> - Use .env for config</p><p><strong>4. Logging</strong> - Implement structured logging</p><p><strong>5. Testing</strong> - Write unit and integration tests</p><p><strong>6. Security</strong> - Validate and sanitize inputs</p><p><strong>7. Performance</strong> - Profile and optimize code</p><p><strong>8. Documentation</strong> - Keep API docs updated</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440001",
+    "tags": ["nodejs", "backend", "javascript", "development"],
+    "versions": [
+      {
+        "body": "<h2>Building Better Node.js Applications</h2><p><strong>1. Use async/await</strong> - More readable than callbacks</p><p><strong>2. Error Handling</strong> - Always handle errors properly</p><p><strong>3. Environment Variables</strong> - Use .env for config</p><p><strong>4. Logging</strong> - Implement structured logging</p><p><strong>5. Testing</strong> - Write unit and integration tests</p><p><strong>6. Security</strong> - Validate and sanitize inputs</p><p><strong>7. Performance</strong> - Profile and optimize code</p><p><strong>8. Documentation</strong> - Keep API docs updated</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440001",
+        "createdAt": "2025-03-08T09:30:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-08T09:30:00.000Z",
+    "createdAt": "2025-03-08T09:30:00.000Z",
+    "updatedAt": "2025-03-08T09:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550005",
+    "title": "React Hooks Deep Dive",
+    "slug": "react-hooks-deep-dive",
+    "body": "<h2>Understanding React Hooks</h2><p><strong>useState</strong> - Manage component state</p><p><strong>useEffect</strong> - Handle side effects</p><p><strong>useContext</strong> - Share state across components</p><p><strong>useReducer</strong> - Complex state management</p><p><strong>useCallback</strong> - Memoize functions</p><p><strong>useMemo</strong> - Memoize values</p><p><strong>useRef</strong> - Direct DOM access</p><p><strong>Custom Hooks</strong> - Create reusable logic</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440002",
+    "tags": ["react", "hooks", "frontend", "javascript"],
+    "versions": [
+      {
+        "body": "<h2>Understanding React Hooks</h2><p><strong>useState</strong> - Manage component state</p><p><strong>useEffect</strong> - Handle side effects</p><p><strong>useContext</strong> - Share state across components</p><p><strong>useReducer</strong> - Complex state management</p><p><strong>useCallback</strong> - Memoize functions</p><p><strong>useMemo</strong> - Memoize values</p><p><strong>useRef</strong> - Direct DOM access</p><p><strong>Custom Hooks</strong> - Create reusable logic</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440002",
+        "createdAt": "2025-03-09T11:45:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-09T11:45:00.000Z",
+    "createdAt": "2025-03-09T11:45:00.000Z",
+    "updatedAt": "2025-03-09T11:45:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550006",
+    "title": "Database Design Principles",
+    "slug": "database-design-principles",
+    "body": "<h2>Key Principles of Database Design</h2><p><strong>Normalization</strong> - Reduce data redundancy</p><p><strong>ACID Properties</strong> - Ensure data integrity</p><p><strong>Indexing</strong> - Improve query performance</p><p><strong>Relationships</strong> - Define proper entity relationships</p><p><strong>Constraints</strong> - Enforce data validation</p><p><strong>Backup</strong> - Regular data backups</p><p><strong>Security</strong> - Encrypt sensitive data</p><p><strong>Scalability</strong> - Design for growth</p>",
+    "status": "draft",
+    "author": "550e8400-e29b-41d4-a716-446655440003",
+    "tags": ["database", "design", "sql", "architecture"],
+    "versions": [
+      {
+        "body": "<h2>Key Principles of Database Design</h2><p><strong>Normalization</strong> - Reduce data redundancy</p><p><strong>ACID Properties</strong> - Ensure data integrity</p><p><strong>Indexing</strong> - Improve query performance</p><p><strong>Relationships</strong> - Define proper entity relationships</p><p><strong>Constraints</strong> - Enforce data validation</p><p><strong>Backup</strong> - Regular data backups</p><p><strong>Security</strong> - Encrypt sensitive data</p><p><strong>Scalability</strong> - Design for growth</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440003",
+        "createdAt": "2025-03-10T14:20:00.000Z"
+      }
+    ],
+    "publishedAt": null,
+    "createdAt": "2025-03-10T14:20:00.000Z",
+    "updatedAt": "2025-03-10T14:20:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550007",
+    "title": "API Security Best Practices",
+    "slug": "api-security-best-practices",
+    "body": "<h2>Securing Your APIs</h2><p><strong>Authentication</strong> - Use JWT or OAuth2</p><p><strong>Authorization</strong> - Implement role-based access</p><p><strong>Rate Limiting</strong> - Prevent abuse</p><p><strong>HTTPS</strong> - Always use encryption</p><p><strong>Input Validation</strong> - Sanitize all inputs</p><p><strong>CORS</strong> - Configure properly</p><p><strong>Logging</strong> - Monitor suspicious activity</p><p><strong>Updates</strong> - Keep dependencies current</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440001",
+    "tags": ["security", "api", "backend", "devops"],
+    "versions": [
+      {
+        "body": "<h2>Securing Your APIs</h2><p><strong>Authentication</strong> - Use JWT or OAuth2</p><p><strong>Authorization</strong> - Implement role-based access</p><p><strong>Rate Limiting</strong> - Prevent abuse</p><p><strong>HTTPS</strong> - Always use encryption</p><p><strong>Input Validation</strong> - Sanitize all inputs</p><p><strong>CORS</strong> - Configure properly</p><p><strong>Logging</strong> - Monitor suspicious activity</p><p><strong>Updates</strong> - Keep dependencies current</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440001",
+        "createdAt": "2025-03-11T10:00:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-11T10:00:00.000Z",
+    "createdAt": "2025-03-11T10:00:00.000Z",
+    "updatedAt": "2025-03-11T10:00:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655550008",
+    "title": "TypeScript vs JavaScript",
+    "slug": "typescript-vs-javascript",
+    "body": "<h2>When to Use TypeScript</h2><p><strong>Type Safety</strong> - Catch errors at compile time</p><p><strong>Better IDE Support</strong> - Improved autocompletion</p><p><strong>Self-documenting</strong> - Types serve as documentation</p><p><strong>Large Projects</strong> - Better for team collaboration</p><p><strong>Refactoring</strong> - Easier to refactor with types</p><p><strong>Learning Curve</strong> - Steeper but worth it</p><p><strong>Build Step</strong> - Requires compilation</p>",
+    "status": "published",
+    "author": "550e8400-e29b-41d4-a716-446655440002",
+    "tags": ["typescript", "javascript", "programming", "comparison"],
+    "versions": [
+      {
+        "body": "<h2>When to Use TypeScript</h2><p><strong>Type Safety</strong> - Catch errors at compile time</p><p><strong>Better IDE Support</strong> - Improved autocompletion</p><p><strong>Self-documenting</strong> - Types serve as documentation</p><p><strong>Large Projects</strong> - Better for team collaboration</p><p><strong>Refactoring</strong> - Easier to refactor with types</p><p><strong>Learning Curve</strong> - Steeper but worth it</p><p><strong>Build Step</strong> - Requires compilation</p>",
+        "author": "550e8400-e29b-41d4-a716-446655440002",
+        "createdAt": "2025-03-12T15:30:00.000Z"
+      }
+    ],
+    "publishedAt": "2025-03-12T15:30:00.000Z",
+    "createdAt": "2025-03-12T15:30:00.000Z",
+    "updatedAt": "2025-03-12T15:30:00.000Z"
+  }
+]

@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660000",
+    "filename": "logo.png",
+    "url": "/uploads/1710329400000-logo.png",
+    "mimeType": "image/png",
+    "size": 45230,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440000",
+    "createdAt": "2025-03-02T09:00:00.000Z",
+    "updatedAt": "2025-03-02T09:00:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660001",
+    "filename": "banner.jpg",
+    "url": "/uploads/1710329500000-banner.jpg",
+    "mimeType": "image/jpeg",
+    "size": 256789,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440001",
+    "createdAt": "2025-03-03T10:15:00.000Z",
+    "updatedAt": "2025-03-03T10:15:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660002",
+    "filename": "tutorial-video.mp4",
+    "url": "/uploads/1710329600000-tutorial-video.mp4",
+    "mimeType": "video/mp4",
+    "size": 5242880,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440002",
+    "createdAt": "2025-03-04T11:30:00.000Z",
+    "updatedAt": "2025-03-04T11:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660003",
+    "filename": "presentation.pdf",
+    "url": "/uploads/1710329700000-presentation.pdf",
+    "mimeType": "application/pdf",
+    "size": 1024000,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "createdAt": "2025-03-05T12:45:00.000Z",
+    "updatedAt": "2025-03-05T12:45:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660004",
+    "filename": "icon-calendar.svg",
+    "url": "/uploads/1710329800000-icon-calendar.svg",
+    "mimeType": "image/svg+xml",
+    "size": 3456,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440001",
+    "createdAt": "2025-03-06T13:20:00.000Z",
+    "updatedAt": "2025-03-06T13:20:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660005",
+    "filename": "team-photo.jpg",
+    "url": "/uploads/1710329900000-team-photo.jpg",
+    "mimeType": "image/jpeg",
+    "size": 892345,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440000",
+    "createdAt": "2025-03-07T14:00:00.000Z",
+    "updatedAt": "2025-03-07T14:00:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660006",
+    "filename": "data-export.csv",
+    "url": "/uploads/1710330000000-data-export.csv",
+    "mimeType": "text/csv",
+    "size": 512000,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440002",
+    "createdAt": "2025-03-08T15:30:00.000Z",
+    "updatedAt": "2025-03-08T15:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660007",
+    "filename": "diagram.png",
+    "url": "/uploads/1710330100000-diagram.png",
+    "mimeType": "image/png",
+    "size": 234567,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440003",
+    "createdAt": "2025-03-09T16:15:00.000Z",
+    "updatedAt": "2025-03-09T16:15:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660008",
+    "filename": "whitepaper.pdf",
+    "url": "/uploads/1710330200000-whitepaper.pdf",
+    "mimeType": "application/pdf",
+    "size": 2048000,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440001",
+    "createdAt": "2025-03-10T09:45:00.000Z",
+    "updatedAt": "2025-03-10T09:45:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660009",
+    "filename": "screenshot.png",
+    "url": "/uploads/1710330300000-screenshot.png",
+    "mimeType": "image/png",
+    "size": 156789,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440002",
+    "createdAt": "2025-03-11T10:30:00.000Z",
+    "updatedAt": "2025-03-11T10:30:00.000Z"
+  },
+  {
+    "_id": "550e8400-e29b-41d4-a716-446655660010",
+    "filename": "animation.gif",
+    "url": "/uploads/1710330400000-animation.gif",
+    "mimeType": "image/gif",
+    "size": 678900,
+    "uploadedBy": "550e8400-e29b-41d4-a716-446655440000",
+    "createdAt": "2025-03-12T11:15:00.000Z",
+    "updatedAt": "2025-03-12T11:15:00.000Z"
+  }
+]

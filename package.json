@@ -1,0 +1,28 @@
+{
+  "name": "cms-project",
+  "version": "1.0.0",
+  "description": "Full-stack CMS with Layer + Microkernel architecture",
+  "type": "commonjs",
+  "scripts": {
+    "commit": "node auto-commit.js",
+    "setup": "npm run setup-backend && npm run setup-frontend",
+    "setup-backend": "cd backend && npm install",
+    "setup-frontend": "cd frontend && npm install",
+    "seed": "cd backend && npm run seed",
+    "dev:backend": "cd backend && npm run dev",
+    "dev:frontend": "cd frontend && npm run dev",
+    "build:backend": "cd backend && npm run build",
+    "build:frontend": "cd frontend && npm run build"
+  },
+  "keywords": [
+    "cms",
+    "content-management",
+    "layer-pattern",
+    "microkernel",
+    "express",
+    "react",
+    "typescript"
+  ],
+  "author": "Your Name",
+  "license": "MIT"
+}

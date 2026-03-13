@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "comment-001",
+    "contentId": "post-001",
+    "author": "user-002",
+    "authorName": "Sarah Chen",
+    "body": "Great article! Very helpful for beginners.",
+    "createdAt": "2025-03-12T14:30:00Z"
+  },
+  {
+    "_id": "comment-002",
+    "contentId": "post-001",
+    "author": "user-003",
+    "authorName": "John Smith",
+    "body": "Thanks for the detailed explanation. This cleared up my confusion.",
+    "createdAt": "2025-03-11T10:15:00Z"
+  },
+  {
+    "_id": "comment-003",
+    "contentId": "post-002",
+    "author": "user-004",
+    "authorName": "Emma Wilson",
+    "body": "Security is so important. More people should read this.",
+    "createdAt": "2025-03-10T16:45:00Z"
+  },
+  {
+    "_id": "comment-004",
+    "contentId": "post-003",
+    "author": "user-005",
+    "authorName": "Alex Johnson",
+    "body": "Could you elaborate on the normalization process?",
+    "createdAt": "2025-03-09T09:20:00Z"
+  },
+  {
+    "_id": "comment-005",
+    "contentId": "post-004",
+    "author": "user-006",
+    "authorName": "Lisa Anderson",
+    "body": "Hooks completely changed how I write React components!",
+    "createdAt": "2025-03-08T13:50:00Z"
+  },
+  {
+    "_id": "comment-006",
+    "contentId": "post-005",
+    "author": "user-007",
+    "authorName": "Michael Brown",
+    "body": "Best practices guide I've seen. Bookmarked for reference.",
+    "createdAt": "2025-03-07T11:30:00Z"
+  },
+  {
+    "_id": "comment-007",
+    "contentId": "post-006",
+    "author": "user-008",
+    "authorName": "Jessica Taylor",
+    "body": "Love the minimalist design trend this year.",
+    "createdAt": "2025-03-06T15:20:00Z"
+  },
+  {
+    "_id": "comment-008",
+    "contentId": "post-007",
+    "author": "user-002",
+    "authorName": "Sarah Chen",
+    "body": "These tips are gold! Using them in my next campaign.",
+    "createdAt": "2025-03-05T12:10:00Z"
+  },
+  {
+    "_id": "comment-009",
+    "contentId": "post-008",
+    "author": "user-003",
+    "authorName": "John Smith",
+    "body": "Perfect introduction for someone starting with CMS. Kudos!",
+    "createdAt": "2025-03-04T10:40:00Z"
+  },
+  {
+    "_id": "comment-010",
+    "contentId": "post-009",
+    "author": "user-009",
+    "authorName": "David Martinez",
+    "body": "Welcome post is great. Looking forward to more content!",
+    "createdAt": "2025-03-01T08:00:00Z"
+  }
+]
